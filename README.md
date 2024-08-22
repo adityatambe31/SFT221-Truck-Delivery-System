@@ -28,3 +28,8 @@ During my SFT211 course, I collaborated on a group project to develop a **Truck 
 
 ## 🎯 Conclusion
 This project not only honed my technical skills in C++ and project management tools but also strengthened my ability to work effectively in a team, manage tasks efficiently, and deliver high-quality software solutions.
+
+- **Email:** aditya.tambe.professional31@gmail.com
+- **LinkedIn:** [Aditya Tambe](https://www.linkedin.com/in/adityatambee/)
+
+Thanks for visiting my repository! Let's code and grow together! 🌟
